@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">## 👋 About Me<br><br>I'm a Engineering student from India who enjoys building projects and exploring emerging technologies.<br><br>- 🔭 Working on AI, Computer Vision, and Web Development projects<br>- 🌱 Currently learning React, Flask, Machine Learning, and Cybersecurity<br>- 🚩 CTF Participant and Cybersecurity Enthusiast<br>- 💡 Passionate about problem-solving through technology<br>- ⚡ Always learning, building, and experimenting with new ideas</p>
+<p align="left">## 👋 About Me<br><br>I'm a Engineering student from India who enjoys building projects and exploring emerging technologies.<br><br>- 🔭 Working on AI,Computer Vision, and Web Development projects<br>- 🌱 Currently learning React, Flask, Machine Learning, and Cybersecurity<br>- 🚩 CTF Participant and Cybersecurity Enthusiast<br>- 💡 Passionate about problem-solving through technology<br>- ⚡ Always learning, building, and experimenting with new ideas</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
