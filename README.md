@@ -26,7 +26,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm Trisha Deshmukh<br><br>🎓 Final-year Information Technology student passionate about Software Development, Cybersecurity, AI, and Web Technologies.<br><br>💻 Experienced in building full-stack web applications, AI-powered solutions, and hardware-integrated projects. I enjoy solving real-world problems through technology and continuously exploring new tools and frameworks.<br><br>🚀 Currently focused on enhancing my skills in Cybersecurity, Full-Stack Development, and Machine Learning while contributing to impactful projects and hackathons.<br><br>🌱 Always learning, building, and collaborating.<br><br>📫 Connect with me on LinkedIn: www.linkedin.com/in/trisha-deshmukh
+👋 Hi, I'm Trisha Deshmukh<br><br>🎓 Final-year Information Technology student passionate about Software Development, Cybersecurity, AI, and Web Technologies.<br><br>💻 Experienced in building full-stack web applications, AI-powered solutions, and hardware-integrated projects. I enjoy solving real-world problems through technology and continuously exploring new tools and frameworks.<br><br>.<br><br>🌱 Always learning, building, and collaborating.<br><br>📫 Connect with me on LinkedIn: www.linkedin.com/in/trisha-deshmukh
 
 
 # 💻 Tech Stack:
